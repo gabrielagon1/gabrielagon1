@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Gabriela Gonçalves 👋
 
 
-- 🔭 Hoje estou em busca de estágio na área de análise de dados 
-- 🌱 Curso Gestão da Informação na UFPE, e estou me aprofundando em Data Science com SQL e Pyhton
+- 🔭 Hoje atuo com estágiaria em governança mas possuo interesse na área de BI
+- 🌱 Curso Gestão da Informação na UFPE, e estou me aprofundando em analise e visualização de dados
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielagon1&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielagon1&show_icons=true&theme=tokyonight)](https://github.com/gabrielagon1/github-readme-stats)
