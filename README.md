@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gabriela Gonçalves 👋
 
 
-- 🔭 Hoje atuo com estágiaria em governança mas possuo interesse na área de BI
+- 🔭 Hoje atuo com estágiaria em governança/processos mas possuo interesse na área de BI
 - 🌱 Curso Gestão da Informação na UFPE, e estou me aprofundando em analise e visualização de dados
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielagon1&show_icons=true&theme=tokyonight)
